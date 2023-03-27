@@ -5,6 +5,7 @@
 h1 {
     color:hsl(302, 59%, 65%);
     font-size: 45px;
+    font-family: 'Alkatra', cursive;
 }
 
 /* Main Container */
@@ -50,4 +51,8 @@ h1 {
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     color:black;
     font-size: 20px;
+}
+/* Background color*/
+body {
+    background-color: #E9F14D;
 }
